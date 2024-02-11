@@ -1,0 +1,6 @@
+com\testinium\test\automation\FullTestStart.class
+com\testinium\test\automation\tests\LoginPageTest.class
+com\testinium\test\automation\Utils.class
+com\testinium\test\automation\abstracts\TestAbstracts.class
+com\testinium\test\automation\tests\MainPageTest.class
+com\testinium\test\automation\Bean.class
