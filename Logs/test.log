@@ -1,0 +1,294 @@
+2024-02-11 18:32:02 INFO  MainPageTest:21 - Test Başlatıldı
+2024-02-11 18:32:22 INFO  MainPageTest:79 - Anasayfaya gidildi
+2024-02-11 18:32:22 INFO  MainPageTest:114 - Cilt Bakım Menüsü Açıldı.
+2024-02-11 18:32:22 INFO  MainPageTest:94 - 'in linkine gidiliyor. Link: https://www.gratis.com/cilt-bakim/agda-epilasyon-c-50210
+2024-02-11 18:32:45 ERROR MainPageTest:40 - Seçilen Linke Gidilemedi. Link:https://www.gratis.com/cilt-bakim/agda-epilasyon-c-50210?query=:relevance:allCategories:50210:attributes_b%C4%B1%C3%A7ak%20say%C4%B1s%C4%B1:5+B%C4%B1%C3%A7akl%C4%B1
+2024-02-11 18:35:10 INFO  MainPageTest:21 - Test Başlatıldı
+2024-02-11 18:35:30 INFO  MainPageTest:79 - Anasayfaya gidildi
+2024-02-11 18:35:30 INFO  MainPageTest:119 - Cilt Bakım Menüsü Açıldı.
+2024-02-11 18:35:31 INFO  MainPageTest:99 - Cilt Temizleme Ürünleri'in linkine gidiliyor. Link: https://www.gratis.com/cilt-bakim/cilt-temizleme-urunleri-c-50201
+2024-02-11 18:38:10 INFO  MainPageTest:21 - Test Başlatıldı
+2024-02-11 18:38:27 INFO  MainPageTest:85 - Anasayfaya gidildi
+2024-02-11 18:38:28 INFO  MainPageTest:125 - Cilt Bakım Menüsü Açıldı.
+2024-02-11 18:38:28 INFO  MainPageTest:105 - Güneş Kremi & Losyonları'in linkine gidiliyor. Link: https://www.gratis.com/cilt-bakim/gunes-kremi-losyonlari-c-5021101
+2024-02-11 18:38:58 INFO  MainPageTest:21 - Test Başlatıldı
+2024-02-11 18:39:13 INFO  MainPageTest:85 - Anasayfaya gidildi
+2024-02-11 18:39:13 INFO  MainPageTest:125 - Cilt Bakım Menüsü Açıldı.
+2024-02-11 18:39:13 INFO  MainPageTest:105 - Dudak Bakımı'in linkine gidiliyor. Link: https://www.gratis.com/cilt-bakim/dudak-bakimi-c-50209
+2024-02-11 18:41:30 INFO  MainPageTest:21 - Test Başlatıldı
+2024-02-11 18:41:45 INFO  MainPageTest:85 - Anasayfaya gidildi
+2024-02-11 18:41:45 INFO  MainPageTest:125 - Cilt Bakım Menüsü Açıldı.
+2024-02-11 18:42:44 INFO  MainPageTest:21 - Test Başlatıldı
+2024-02-11 18:42:59 INFO  MainPageTest:85 - Anasayfaya gidildi
+2024-02-11 18:42:59 INFO  MainPageTest:125 - Cilt Bakım Menüsü Açıldı.
+2024-02-11 18:42:59 INFO  MainPageTest:105 - Life In'in linkine gidiliyor. Link: https://www.gratis.com/cilt-bakim-c-502?query=:relevance:allCategories:502:brandCategories:60145
+2024-02-11 18:45:42 INFO  MainPageTest:21 - Test Başlatıldı
+2024-02-11 18:45:51 INFO  MainPageTest:87 - Anasayfaya gidildi
+2024-02-11 18:45:52 INFO  MainPageTest:127 - Cilt Bakım Menüsü Açıldı.
+2024-02-11 18:45:52 INFO  MainPageTest:107 - Ağda & Epilasyon'in linkine gidiliyor. Link: https://www.gratis.com/cilt-bakim/agda-epilasyon-c-50210
+2024-02-11 18:45:59 INFO  MainPageTest:45 -  filtresi aktif edildi
+2024-02-11 18:46:03 INFO  MainPageTest:58 - Stokta Var filtresi aktif edildi
+2024-02-11 18:46:39 WARN  MainPageTest:76 - Tıklanmayan bir filtre var. Filtre:Cilt Tipi
+2024-02-11 18:46:39 WARN  MainPageTest:76 - Tıklanmayan bir filtre var. Filtre:Stokta Var
+2024-02-11 18:46:51 INFO  MainPageTest:21 - Test Başlatıldı
+2024-02-11 18:47:05 INFO  MainPageTest:87 - Anasayfaya gidildi
+2024-02-11 18:47:05 INFO  MainPageTest:127 - Cilt Bakım Menüsü Açıldı.
+2024-02-11 18:47:06 INFO  MainPageTest:107 - Gece Kremleri'in linkine gidiliyor. Link: https://www.gratis.com/cilt-bakim/gece-kremleri-c-5020203
+2024-02-11 18:54:04 INFO  MainPageTest:21 - Test Başlatıldı
+2024-02-11 18:54:09 INFO  MainPageTest:87 - Anasayfaya gidildi
+2024-02-11 18:54:09 INFO  MainPageTest:127 - Cilt Bakım Menüsü Açıldı.
+2024-02-11 18:54:09 INFO  MainPageTest:107 - Kadın Tıraş Bıçakları'in linkine gidiliyor. Link: https://www.gratis.com/cilt-bakim/kadin-tiras-bicaklari-c-5021003
+2024-02-11 18:54:27 INFO  MainPageTest:45 - Swirl filtresi aktif edildi
+2024-02-11 18:54:30 ERROR MainPageTest:54 - Seçilen Linke Gidilemedi. Link:https://www.gratis.com/cilt-bakim/kadin-tiras-bicaklari-c-5021003?query=:relevance:allCategories:5021003:attributes_%C3%BCr%C3%BCn%20serisi:Swirl:attributes_%C3%BCr%C3%BCn%20serisi:Soleil+Click+3
+2024-02-11 18:55:10 INFO  MainPageTest:21 - Test Başlatıldı
+2024-02-11 18:55:24 INFO  MainPageTest:87 - Anasayfaya gidildi
+2024-02-11 18:55:25 INFO  MainPageTest:127 - Cilt Bakım Menüsü Açıldı.
+2024-02-11 18:55:25 INFO  MainPageTest:107 - Tüy Dökücü & Sarartıcılar'in linkine gidiliyor. Link: https://www.gratis.com/cilt-bakim/tuy-dokucu-sararticilar-c-5021002
+2024-02-11 18:56:23 INFO  MainPageTest:45 - Veet filtresi aktif edildi
+2024-02-11 18:56:26 ERROR MainPageTest:54 - Seçilen Linke Gidilemedi. Link:https://www.gratis.com/cilt-bakim/tuy-dokucu-sararticilar-c-5021002?query=:relevance:allCategories:5021002:brandCategories:60259:additionalFeatures:Aloe+Vera
+2024-02-11 18:57:40 INFO  MainPageTest:21 - Test Başlatıldı
+2024-02-11 18:57:51 INFO  MainPageTest:89 - Anasayfaya gidildi
+2024-02-11 18:57:51 INFO  MainPageTest:129 - Cilt Bakım Menüsü Açıldı.
+2024-02-11 18:57:51 INFO  MainPageTest:109 - Ağda'in linkine gidiliyor. Link: https://www.gratis.com/cilt-bakim/agda-c-5021001
+2024-02-11 18:58:11 ERROR MainPageTest:42 - Seçilen Linke Gidilemedi. Link:https://www.gratis.com/cilt-bakim/agda-c-5021001?query=:relevance:allCategories:5021001:attributes_%C3%BCr%C3%BCn%20tipi:Temizleme+Ya%C4%9F%C4%B1
+2024-02-11 18:58:32 INFO  MainPageTest:21 - Test Başlatıldı
+2024-02-11 18:58:46 INFO  MainPageTest:89 - Anasayfaya gidildi
+2024-02-11 18:58:46 INFO  MainPageTest:129 - Cilt Bakım Menüsü Açıldı.
+2024-02-11 18:58:47 INFO  MainPageTest:109 - Life In'in linkine gidiliyor. Link: https://www.gratis.com/cilt-bakim-c-502?query=:relevance:allCategories:502:brandCategories:60145
+2024-02-11 18:58:53 INFO  MainPageTest:46 - Bee Beauty filtresi aktif edildi
+2024-02-11 19:00:00 ERROR MainPageTest:56 - Seçilen Linke Gidilemedi. Link:https://www.gratis.com/cilt-bakim-c-502?query=:relevance:allCategories:502:brandCategories:60145:brandCategories:60026:attributes_%C3%B6zellik:C+Vitamini
+2024-02-11 19:02:42 INFO  MainPageTest:22 - Test Başlatıldı
+2024-02-11 19:03:00 INFO  MainPageTest:90 - Anasayfaya gidildi
+2024-02-11 19:03:00 ERROR MainPageTest:94 - Anasayfaya Gidilemedi
+2024-02-11 19:03:12 INFO  MainPageTest:22 - Test Başlatıldı
+2024-02-11 19:03:24 INFO  MainPageTest:90 - Anasayfaya gidildi
+2024-02-11 19:03:52 ERROR MainPageTest:94 - Anasayfaya Gidilemedi
+2024-02-11 19:04:26 INFO  MainPageTest:22 - Test Başlatıldı
+2024-02-11 19:04:38 INFO  MainPageTest:90 - Anasayfaya gidildi
+2024-02-11 19:05:21 ERROR MainPageTest:94 - Anasayfaya Gidilemedi
+2024-02-11 19:07:15 INFO  MainPageTest:22 - Test Başlatıldı
+2024-02-11 19:07:28 INFO  MainPageTest:90 - Anasayfaya gidildi
+2024-02-11 19:10:07 ERROR MainPageTest:94 - Anasayfaya Gidilemedi
+2024-02-11 19:10:12 INFO  MainPageTest:22 - Test Başlatıldı
+2024-02-11 19:10:25 INFO  MainPageTest:90 - Anasayfaya gidildi
+2024-02-11 19:10:25 ERROR MainPageTest:94 - Anasayfaya Gidilemedi
+2024-02-11 19:10:30 INFO  MainPageTest:22 - Test Başlatıldı
+2024-02-11 19:10:44 INFO  MainPageTest:90 - Anasayfaya gidildi
+2024-02-11 19:11:31 ERROR MainPageTest:94 - Anasayfaya Gidilemedi
+2024-02-11 19:11:39 INFO  MainPageTest:22 - Test Başlatıldı
+2024-02-11 19:11:51 INFO  MainPageTest:90 - Anasayfaya gidildi
+2024-02-11 19:11:52 INFO  MainPageTest:130 - Cilt Bakım Menüsü Açıldı.
+2024-02-11 19:11:52 INFO  MainPageTest:110 - Life In'in linkine gidiliyor. Link: https://www.gratis.com/cilt-bakim-c-502?query=:relevance:allCategories:502:brandCategories:60145
+2024-02-11 19:11:55 ERROR MainPageTest:113 - Seçilen Linke Gidilemedi.
+2024-02-11 19:12:40 INFO  MainPageTest:22 - Test Başlatıldı
+2024-02-11 19:12:52 INFO  MainPageTest:90 - Anasayfaya gidildi
+2024-02-11 19:12:52 INFO  MainPageTest:130 - Cilt Bakım Menüsü Açıldı.
+2024-02-11 19:12:52 INFO  MainPageTest:110 - Benri'in linkine gidiliyor. Link: https://www.gratis.com/cilt-bakim-c-502?query=:relevance:allCategories:502:brandCategories:60029
+2024-02-11 19:15:07 ERROR MainPageTest:113 - Seçilen Linke Gidilemedi.
+2024-02-11 19:15:50 INFO  MainPageTest:22 - Test Başlatıldı
+2024-02-11 19:16:01 INFO  MainPageTest:90 - Anasayfaya gidildi
+2024-02-11 19:16:02 INFO  MainPageTest:130 - Cilt Bakım Menüsü Açıldı.
+2024-02-11 19:16:02 INFO  MainPageTest:110 - Planet Essences'in linkine gidiliyor. Link: https://www.gratis.com/planet-essence-b-60641
+2024-02-11 19:17:17 INFO  MainPageTest:47 - Krem filtresi aktif edildi
+2024-02-11 19:17:36 INFO  MainPageTest:61 - Hassas filtresi aktif edildi
+2024-02-11 19:17:47 WARN  MainPageTest:79 - Tıklanmayan bir filtre var. Filtre:Cilt Tipi
+2024-02-11 19:17:47 WARN  MainPageTest:79 - Tıklanmayan bir filtre var. Filtre:Form
+2024-02-11 19:18:13 INFO  MainPageTest:22 - Test Başlatıldı
+2024-02-11 19:18:25 INFO  MainPageTest:90 - Anasayfaya gidildi
+2024-02-11 19:18:25 INFO  MainPageTest:130 - Cilt Bakım Menüsü Açıldı.
+2024-02-11 19:18:25 INFO  MainPageTest:110 - Dudak Bakımı'in linkine gidiliyor. Link: https://www.gratis.com/cilt-bakim/dudak-bakimi-c-50209
+2024-02-11 19:18:32 INFO  MainPageTest:47 - Tüp filtresi aktif edildi
+2024-02-11 19:18:38 INFO  MainPageTest:61 - Renksiz filtresi aktif edildi
+2024-02-11 19:18:48 WARN  MainPageTest:79 - Tıklanmayan bir filtre var. Filtre:Görünüm
+2024-02-11 19:18:48 WARN  MainPageTest:79 - Tıklanmayan bir filtre var. Filtre:Ürün Tipi
+2024-02-11 19:19:24 INFO  MainPageTest:22 - Test Başlatıldı
+2024-02-11 19:19:25 INFO  MainPageTest:90 - Anasayfaya gidildi
+2024-02-11 19:19:37 INFO  MainPageTest:130 - Cilt Bakım Menüsü Açıldı.
+2024-02-11 19:20:11 INFO  MainPageTest:22 - Test Başlatıldı
+2024-02-11 19:20:20 INFO  MainPageTest:88 - Anasayfaya gidildi
+2024-02-11 19:20:21 INFO  MainPageTest:128 - Cilt Bakım Menüsü Açıldı.
+2024-02-11 19:20:21 INFO  MainPageTest:108 - Güneş Yağları'in linkine gidiliyor. Link: https://www.gratis.com/cilt-bakim/gunes-yaglari-c-5021102
+2024-02-11 19:20:27 INFO  MainPageTest:46 - Şişe filtresi aktif edildi
+2024-02-11 19:20:30 INFO  MainPageTest:59 - Işıltılı filtresi aktif edildi
+2024-02-11 19:20:30 WARN  MainPageTest:77 - Tıklanmayan bir filtre var. Filtre:Görünüm
+2024-02-11 19:20:30 WARN  MainPageTest:77 - Tıklanmayan bir filtre var. Filtre:Tip
+2024-02-11 19:20:41 INFO  MainPageTest:22 - Test Başlatıldı
+2024-02-11 19:20:51 INFO  MainPageTest:88 - Anasayfaya gidildi
+2024-02-11 19:20:51 INFO  MainPageTest:128 - Cilt Bakım Menüsü Açıldı.
+2024-02-11 19:20:51 INFO  MainPageTest:108 - Yüz Peeling Ürünleri'in linkine gidiliyor. Link: https://www.gratis.com/cilt-bakim/yuz-peeling-urunleri-c-5020104
+2024-02-11 19:20:58 INFO  MainPageTest:46 - The Purest Solutions filtresi aktif edildi
+2024-02-11 19:21:00 ERROR MainPageTest:55 - Seçilen Linke Gidilemedi. Link:https://www.gratis.com/cilt-bakim/yuz-peeling-urunleri-c-5020104?query=:relevance:allCategories:5020104:brandCategories:60837:attributes_cilt%20tipi:T%C3%BCm+Cilt+Tipleri
+2024-02-11 19:21:21 INFO  MainPageTest:22 - Test Başlatıldı
+2024-02-11 19:21:32 INFO  MainPageTest:88 - Anasayfaya gidildi
+2024-02-11 19:21:32 INFO  MainPageTest:128 - Cilt Bakım Menüsü Açıldı.
+2024-02-11 19:21:32 INFO  MainPageTest:108 - El Maskeleri'in linkine gidiliyor. Link: https://www.gratis.com/cilt-bakim/el-maskeleri-c-5020602
+2024-02-11 19:21:38 INFO  MainPageTest:46 - Gratis'e Özel filtresi aktif edildi
+2024-02-11 19:21:41 INFO  MainPageTest:59 - Stokta Var filtresi aktif edildi
+2024-02-11 19:22:01 WARN  MainPageTest:77 - Tıklanmayan bir filtre var. Filtre:Ürün Seçenekleri
+2024-02-11 19:25:14 INFO  MainPageTest:22 - Test Başlatıldı
+2024-02-11 19:25:29 INFO  MainPageTest:88 - Anasayfaya gidildi
+2024-02-11 19:25:29 INFO  MainPageTest:128 - Cilt Bakım Menüsü Açıldı.
+2024-02-11 19:25:29 INFO  MainPageTest:108 - Benri'in linkine gidiliyor. Link: https://www.gratis.com/cilt-bakim-c-502?query=:relevance:allCategories:502:brandCategories:60029
+2024-02-11 19:25:36 INFO  MainPageTest:46 - Renksiz filtresi aktif edildi
+2024-02-11 19:25:39 INFO  MainPageTest:59 - Kağıt filtresi aktif edildi
+2024-02-11 19:26:30 INFO  MainPageTest:22 - Test Başlatıldı
+2024-02-11 19:26:42 INFO  MainPageTest:88 - Anasayfaya gidildi
+2024-02-11 19:26:42 INFO  MainPageTest:128 - Cilt Bakım Menüsü Açıldı.
+2024-02-11 19:26:43 INFO  MainPageTest:108 - Benri'in linkine gidiliyor. Link: https://www.gratis.com/cilt-bakim-c-502?query=:relevance:allCategories:502:brandCategories:60029
+2024-02-11 19:26:48 INFO  MainPageTest:46 - Renksiz filtresi aktif edildi
+2024-02-11 19:26:51 ERROR MainPageTest:55 - Seçilen Linke Gidilemedi. Link:https://www.gratis.com/cilt-bakim-c-502?query=:relevance:allCategories:502:brandCategories:60029:attributes_g%C3%B6r%C3%BCn%C3%BCm:Renksiz:attributes_cilt%20tipi:T%C3%BCm+Cilt+Tipleri
+2024-02-11 19:27:03 INFO  MainPageTest:22 - Test Başlatıldı
+2024-02-11 19:27:16 INFO  MainPageTest:88 - Anasayfaya gidildi
+2024-02-11 19:27:16 INFO  MainPageTest:128 - Cilt Bakım Menüsü Açıldı.
+2024-02-11 19:27:16 INFO  MainPageTest:108 - Vazelin'in linkine gidiliyor. Link: https://www.gratis.com/cilt-bakim/vazelin-c-5020603
+2024-02-11 19:27:22 INFO  MainPageTest:46 - Tekli filtresi aktif edildi
+2024-02-11 19:27:25 ERROR MainPageTest:55 - Seçilen Linke Gidilemedi. Link:https://www.gratis.com/cilt-bakim/vazelin-c-5020603?query=:relevance:allCategories:5020603:attributes_%C3%A7e%C5%9Fit:Tekli:additionalFeatures:E+Vitamini
+2024-02-11 19:28:15 INFO  MainPageTest:22 - Test Başlatıldı
+2024-02-11 19:28:25 INFO  MainPageTest:88 - Anasayfaya gidildi
+2024-02-11 19:28:25 INFO  MainPageTest:128 - Cilt Bakım Menüsü Açıldı.
+2024-02-11 19:28:26 INFO  MainPageTest:108 - Güneş Sonrası Bakım Ürünleri'in linkine gidiliyor. Link: https://www.gratis.com/cilt-bakim/gunes-sonrasi-bakim-urunleri-c-5021105
+2024-02-11 19:28:32 INFO  MainPageTest:46 - Bee Beauty filtresi aktif edildi
+2024-02-11 19:28:34 INFO  MainPageTest:59 - Eda Taşpınar filtresi aktif edildi
+2024-02-11 19:29:14 INFO  MainPageTest:22 - Test Başlatıldı
+2024-02-11 19:29:27 INFO  MainPageTest:88 - Anasayfaya gidildi
+2024-02-11 19:29:27 INFO  MainPageTest:128 - Cilt Bakım Menüsü Açıldı.
+2024-02-11 19:29:27 INFO  MainPageTest:108 - Yüz Peeling Ürünleri'in linkine gidiliyor. Link: https://www.gratis.com/cilt-bakim/yuz-peeling-urunleri-c-5020104
+2024-02-11 19:29:34 INFO  MainPageTest:46 - Garnier filtresi aktif edildi
+2024-02-11 19:29:37 INFO  MainPageTest:59 - Yoskine filtresi aktif edildi
+2024-02-11 19:53:27 INFO  MainPageTest:25 - Test Başlatıldı
+2024-02-11 19:53:37 INFO  MainPageTest:105 - Anasayfaya gidildi
+2024-02-11 19:53:38 INFO  MainPageTest:145 - Cilt Bakım Menüsü Açıldı.
+2024-02-11 19:53:38 INFO  MainPageTest:125 - El & Vücut Kremleri'in linkine gidiliyor. Link: https://www.gratis.com/cilt-bakim/el-vucut-kremleri-c-5020601
+2024-02-11 19:53:48 INFO  MainPageTest:63 - Cire Aseptine filtresi aktif edildi
+2024-02-11 19:53:50 INFO  MainPageTest:76 - Arko Nem filtresi aktif edildi
+2024-02-11 19:54:50 INFO  MainPageTest:25 - Test Başlatıldı
+2024-02-11 19:55:00 INFO  MainPageTest:105 - Anasayfaya gidildi
+2024-02-11 19:55:01 INFO  MainPageTest:145 - Cilt Bakım Menüsü Açıldı.
+2024-02-11 19:55:01 INFO  MainPageTest:125 - Gündüz Kremleri'in linkine gidiliyor. Link: https://www.gratis.com/cilt-bakim/gunduz-kremleri-c-5020204
+2024-02-11 19:55:09 INFO  MainPageTest:63 - Bee Beauty filtresi aktif edildi
+2024-02-11 19:55:12 INFO  MainPageTest:76 - Nivea filtresi aktif edildi
+2024-02-11 19:55:57 INFO  MainPageTest:25 - Test Başlatıldı
+2024-02-11 19:56:15 INFO  MainPageTest:105 - Anasayfaya gidildi
+2024-02-11 19:56:15 INFO  MainPageTest:145 - Cilt Bakım Menüsü Açıldı.
+2024-02-11 19:56:15 INFO  MainPageTest:125 - Tüm Markalar'in linkine gidiliyor. Link: https://www.gratis.com/marka
+2024-02-11 19:56:29 INFO  MainPageTest:25 - Test Başlatıldı
+2024-02-11 19:56:42 INFO  MainPageTest:105 - Anasayfaya gidildi
+2024-02-11 19:56:42 INFO  MainPageTest:145 - Cilt Bakım Menüsü Açıldı.
+2024-02-11 19:56:43 INFO  MainPageTest:125 - Gece Kremleri'in linkine gidiliyor. Link: https://www.gratis.com/cilt-bakim/gece-kremleri-c-5020203
+2024-02-11 19:56:49 INFO  MainPageTest:63 - Bee Beauty filtresi aktif edildi
+2024-02-11 19:56:52 INFO  MainPageTest:76 - Nivea filtresi aktif edildi
+2024-02-11 19:58:48 INFO  MainPageTest:25 - Test Başlatıldı
+2024-02-11 19:58:59 INFO  MainPageTest:105 - Anasayfaya gidildi
+2024-02-11 19:58:59 INFO  MainPageTest:145 - Cilt Bakım Menüsü Açıldı.
+2024-02-11 19:58:59 INFO  MainPageTest:125 - Güneş Kremi & Losyonları'in linkine gidiliyor. Link: https://www.gratis.com/cilt-bakim/gunes-kremi-losyonlari-c-5021101
+2024-02-11 19:59:05 INFO  MainPageTest:63 - Celenes filtresi aktif edildi
+2024-02-11 19:59:08 INFO  MainPageTest:76 - Benri filtresi aktif edildi
+2024-02-11 20:00:25 INFO  MainPageTest:25 - Test Başlatıldı
+2024-02-11 20:00:39 INFO  MainPageTest:105 - Anasayfaya gidildi
+2024-02-11 20:00:39 INFO  MainPageTest:145 - Cilt Bakım Menüsü Açıldı.
+2024-02-11 20:00:40 INFO  MainPageTest:125 - Gündüz Kremleri'in linkine gidiliyor. Link: https://www.gratis.com/cilt-bakim/gunduz-kremleri-c-5020204
+2024-02-11 20:00:44 INFO  MainPageTest:63 - Bee Beauty filtresi aktif edildi
+2024-02-11 20:00:46 INFO  MainPageTest:76 - Nivea filtresi aktif edildi
+2024-02-11 20:01:51 INFO  MainPageTest:25 - Test Başlatıldı
+2024-02-11 20:02:02 INFO  MainPageTest:105 - Anasayfaya gidildi
+2024-02-11 20:02:02 INFO  MainPageTest:145 - Cilt Bakım Menüsü Açıldı.
+2024-02-11 20:02:02 INFO  MainPageTest:125 - Yüz Güneş Kremleri'in linkine gidiliyor. Link: https://www.gratis.com/cilt-bakim/yuz-gunes-kremleri-c-5021103
+2024-02-11 20:02:09 INFO  MainPageTest:63 - Cire Aseptine filtresi aktif edildi
+2024-02-11 20:02:12 INFO  MainPageTest:76 - The Sun Project filtresi aktif edildi
+2024-02-11 20:02:55 INFO  MainPageTest:25 - Test Başlatıldı
+2024-02-11 20:03:08 INFO  MainPageTest:105 - Anasayfaya gidildi
+2024-02-11 20:03:08 INFO  MainPageTest:145 - Cilt Bakım Menüsü Açıldı.
+2024-02-11 20:03:08 INFO  MainPageTest:125 - Yüz Bakım Cihazları'in linkine gidiliyor. Link: https://www.gratis.com/cilt-bakim/yuz-bakim-cihazlari-c-50205
+2024-02-11 20:03:14 INFO  MainPageTest:63 - Polosmart filtresi aktif edildi
+2024-02-11 20:03:17 INFO  MainPageTest:76 - Polosmart filtresi aktif edildi
+2024-02-11 20:03:28 INFO  MainPageTest:25 - Test Başlatıldı
+2024-02-11 20:03:40 INFO  MainPageTest:105 - Anasayfaya gidildi
+2024-02-11 20:03:40 INFO  MainPageTest:145 - Cilt Bakım Menüsü Açıldı.
+2024-02-11 20:03:40 INFO  MainPageTest:125 - El & Vücut Kremleri'in linkine gidiliyor. Link: https://www.gratis.com/cilt-bakim/el-vucut-kremleri-c-5020601
+2024-02-11 20:03:46 INFO  MainPageTest:63 - Cire Aseptine filtresi aktif edildi
+2024-02-11 20:03:47 INFO  MainPageTest:76 - Arko Nem filtresi aktif edildi
+2024-02-11 20:04:17 INFO  MainPageTest:25 - Test Başlatıldı
+2024-02-11 20:04:36 INFO  MainPageTest:105 - Anasayfaya gidildi
+2024-02-11 20:04:36 INFO  MainPageTest:145 - Cilt Bakım Menüsü Açıldı.
+2024-02-11 20:04:36 INFO  MainPageTest:125 - Yüz Güneş Kremleri'in linkine gidiliyor. Link: https://www.gratis.com/cilt-bakim/yuz-gunes-kremleri-c-5021103
+2024-02-11 20:04:40 INFO  MainPageTest:63 - Cire Aseptine filtresi aktif edildi
+2024-02-11 20:04:43 INFO  MainPageTest:76 - The Sun Project filtresi aktif edildi
+2024-02-11 20:05:37 INFO  MainPageTest:25 - Test Başlatıldı
+2024-02-11 20:05:47 INFO  MainPageTest:105 - Anasayfaya gidildi
+2024-02-11 20:05:47 INFO  MainPageTest:145 - Cilt Bakım Menüsü Açıldı.
+2024-02-11 20:05:47 INFO  MainPageTest:125 - Güneş Sonrası Bakım Ürünleri'in linkine gidiliyor. Link: https://www.gratis.com/cilt-bakim/gunes-sonrasi-bakim-urunleri-c-5021105
+2024-02-11 20:05:53 INFO  MainPageTest:63 - Bee Beauty filtresi aktif edildi
+2024-02-11 20:05:55 INFO  MainPageTest:76 - Eda Taşpınar filtresi aktif edildi
+2024-02-11 20:06:47 INFO  MainPageTest:25 - Test Başlatıldı
+2024-02-11 20:06:57 INFO  MainPageTest:105 - Anasayfaya gidildi
+2024-02-11 20:06:57 INFO  MainPageTest:145 - Cilt Bakım Menüsü Açıldı.
+2024-02-11 20:06:57 INFO  MainPageTest:125 - Makyaj Temizleme Ürünleri'in linkine gidiliyor. Link: https://www.gratis.com/cilt-bakim/makyaj-temizleme-urunleri-c-5020103
+2024-02-11 20:07:06 INFO  MainPageTest:63 - Garnier filtresi aktif edildi
+2024-02-11 20:07:09 INFO  MainPageTest:76 - Nivea filtresi aktif edildi
+2024-02-11 20:17:07 INFO  MainPageTest:26 - Test Başlatıldı
+2024-02-11 20:17:21 INFO  MainPageTest:115 - Anasayfaya gidildi
+2024-02-11 20:17:21 INFO  MainPageTest:155 - Cilt Bakım Menüsü Açıldı.
+2024-02-11 20:17:22 INFO  MainPageTest:135 - Life In'in linkine gidiliyor. Link: https://www.gratis.com/cilt-bakim-c-502?query=:relevance:allCategories:502:brandCategories:60145
+2024-02-11 20:17:29 INFO  MainPageTest:73 - Neutrogena filtresi aktif edildi
+2024-02-11 20:17:33 INFO  MainPageTest:86 - Cilt Nemlendirici Ürünler filtresi aktif edildi
+2024-02-11 20:17:33 WARN  MainPageTest:104 - Tıklanmayan bir filtre var. Filtre:Markalar
+Life In
+ 
+2024-02-11 20:17:33 INFO  MainPageTest:48 - Excele yazdırıldı
+2024-02-11 20:18:12 INFO  MainPageTest:26 - Test Başlatıldı
+2024-02-11 20:18:25 INFO  MainPageTest:115 - Anasayfaya gidildi
+2024-02-11 20:18:25 INFO  MainPageTest:155 - Cilt Bakım Menüsü Açıldı.
+2024-02-11 20:18:25 INFO  MainPageTest:135 - Vücut Losyonları'in linkine gidiliyor. Link: https://www.gratis.com/cilt-bakim/vucut-losyonlari-c-5020802
+2024-02-11 20:18:33 INFO  MainPageTest:73 - Nivea filtresi aktif edildi
+2024-02-11 20:18:36 INFO  MainPageTest:86 - Benri filtresi aktif edildi
+2024-02-11 20:18:36 INFO  MainPageTest:48 - Excele yazdırıldı
+2024-02-11 20:19:22 INFO  MainPageTest:26 - Test Başlatıldı
+2024-02-11 20:19:36 INFO  MainPageTest:115 - Anasayfaya gidildi
+2024-02-11 20:19:36 INFO  MainPageTest:155 - Cilt Bakım Menüsü Açıldı.
+2024-02-11 20:19:36 INFO  MainPageTest:135 - Yüz Peeling Ürünleri'in linkine gidiliyor. Link: https://www.gratis.com/cilt-bakim/yuz-peeling-urunleri-c-5020104
+2024-02-11 20:19:42 INFO  MainPageTest:73 - Garnier filtresi aktif edildi
+2024-02-11 20:19:45 INFO  MainPageTest:86 - Yoskine filtresi aktif edildi
+2024-02-11 20:19:45 INFO  MainPageTest:48 - Excele yazdırıldı
+2024-02-11 23:30:14 INFO  MainPageTest:26 - Test Başlatıldı
+2024-02-11 23:30:16 INFO  MainPageTest:116 - Anasayfaya gidildi
+2024-02-11 23:30:17 INFO  MainPageTest:156 - Cilt Bakım Menüsü Açıldı.
+2024-02-11 23:30:17 INFO  MainPageTest:136 - Yüz Temizleme Bantları'in linkine gidiliyor. Link: https://www.gratis.com/cilt-bakim/yuz-temizleme-bantlari-c-5020105
+2024-02-11 23:30:22 INFO  MainPageTest:74 - Nivea filtresi aktif edildi
+2024-02-11 23:30:24 INFO  MainPageTest:87 - Pure Korean filtresi aktif edildi
+2024-02-11 23:30:24 INFO  MainPageTest:48 - Excele yazdırıldı
+2024-02-11 23:30:39 INFO  MainPageTest:26 - Test Başlatıldı
+2024-02-11 23:30:45 INFO  MainPageTest:116 - Anasayfaya gidildi
+2024-02-11 23:30:45 INFO  MainPageTest:156 - Cilt Bakım Menüsü Açıldı.
+2024-02-11 23:30:46 INFO  MainPageTest:136 - Yüz Temizleme Bantları'in linkine gidiliyor. Link: https://www.gratis.com/cilt-bakim/yuz-temizleme-bantlari-c-5020105
+2024-02-11 23:30:50 INFO  MainPageTest:74 - Nivea filtresi aktif edildi
+2024-02-11 23:30:51 INFO  MainPageTest:87 - Pure Korean filtresi aktif edildi
+2024-02-11 23:30:52 INFO  MainPageTest:48 - Excele yazdırıldı
+2024-02-11 23:32:42 INFO  MainPageTest:26 - Test Başlatıldı
+2024-02-11 23:32:44 INFO  MainPageTest:116 - Anasayfaya gidildi
+2024-02-11 23:32:45 INFO  MainPageTest:156 - Cilt Bakım Menüsü Açıldı.
+2024-02-11 23:33:01 INFO  MainPageTest:136 - Yüz Temizleme Bantları'in linkine gidiliyor. Link: https://www.gratis.com/cilt-bakim/yuz-temizleme-bantlari-c-5020105
+2024-02-11 23:33:29 INFO  MainPageTest:26 - Test Başlatıldı
+2024-02-11 23:33:36 INFO  MainPageTest:116 - Anasayfaya gidildi
+2024-02-11 23:33:37 INFO  MainPageTest:156 - Cilt Bakım Menüsü Açıldı.
+2024-02-11 23:33:37 INFO  MainPageTest:136 - Yüz Temizleme Bantları'in linkine gidiliyor. Link: https://www.gratis.com/cilt-bakim/yuz-temizleme-bantlari-c-5020105
+2024-02-11 23:33:40 INFO  MainPageTest:74 - Nivea filtresi aktif edildi
+2024-02-11 23:33:41 INFO  MainPageTest:87 - Pure Korean filtresi aktif edildi
+2024-02-11 23:33:41 INFO  MainPageTest:48 - Excele yazdırıldı
+2024-02-11 23:33:47 INFO  MainPageTest:51 - sepete eklendi
+2024-02-11 23:33:49 INFO  LoginPageTest:33 - Login Sayfasına gidildi
+2024-02-11 23:33:49 INFO  LoginPageTest:39 - username yazdırıldı
+2024-02-11 23:33:49 INFO  LoginPageTest:46 - password yazdırıldı
+2024-02-11 23:34:06 INFO  MainPageTest:26 - Test Başlatıldı
+2024-02-11 23:34:08 INFO  MainPageTest:116 - Anasayfaya gidildi
+2024-02-11 23:34:08 INFO  MainPageTest:156 - Cilt Bakım Menüsü Açıldı.
+2024-02-11 23:34:30 INFO  MainPageTest:26 - Test Başlatıldı
+2024-02-11 23:34:32 INFO  MainPageTest:116 - Anasayfaya gidildi
+2024-02-11 23:34:33 INFO  MainPageTest:156 - Cilt Bakım Menüsü Açıldı.
+2024-02-11 23:34:33 INFO  MainPageTest:136 - Yüz Temizleme Bantları'in linkine gidiliyor. Link: https://www.gratis.com/cilt-bakim/yuz-temizleme-bantlari-c-5020105
+2024-02-11 23:34:37 INFO  MainPageTest:74 - Nivea filtresi aktif edildi
+2024-02-11 23:34:39 INFO  MainPageTest:87 - Pure Korean filtresi aktif edildi
+2024-02-11 23:34:39 INFO  MainPageTest:48 - Excele yazdırıldı
+2024-02-11 23:34:39 INFO  MainPageTest:51 - sepete eklendi
+2024-02-11 23:34:40 INFO  LoginPageTest:33 - Login Sayfasına gidildi
+2024-02-11 23:34:40 INFO  LoginPageTest:39 - username yazdırıldı
+2024-02-11 23:34:41 INFO  LoginPageTest:46 - password yazdırıldı
